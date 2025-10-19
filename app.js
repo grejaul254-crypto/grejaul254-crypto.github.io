@@ -1,3 +1,3 @@
 function showMessage() {
-  alert("Termux থেকে হ্যালো! 🌟");
+  alert("Thanks for visiting my website! 🚀");
 }
